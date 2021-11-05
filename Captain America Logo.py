@@ -38,8 +38,3 @@ for i in range(5):
     rt(144)
     fd(183)
 end_fill()
-
-
-my_goto(1000000000,1000000000)
-for i in range(1000):
-    circle(1)
