@@ -31,9 +31,3 @@ rt(-90)
 fd(90)
 rt(80)
 fd(100)
-hideturtle()
-
-
-My_goto(10000000,100000000)
-for i in range(100000):
-    circle(1,10000000)
