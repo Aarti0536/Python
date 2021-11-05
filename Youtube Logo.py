@@ -33,10 +33,3 @@ fd(180)
 rt(-120)
 fd(180)
 end_fill()
-
-
-my_goto(100000,100000)
-for i in range(10000):
-    circle(3)
-
-
